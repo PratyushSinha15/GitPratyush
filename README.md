@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning DSA **JAVA , C-programming**
 
-- 💬 Ask me about **HTML, CSS , JAVASCRIPT**
-
 - 📫 How to reach me: Instagram - **https://www.instagram.com/pratyush_sinha___/**
 
 <h3 align="left">Connect with me:</h3>
